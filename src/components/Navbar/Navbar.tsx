@@ -48,4 +48,4 @@ function Navbar() {
 
 export default Navbar;
 
-// use Active link
+// use Active link or active button usePathname hook from next/navigation
