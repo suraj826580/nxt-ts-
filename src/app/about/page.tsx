@@ -1,6 +1,10 @@
+import { Metadata } from "next";
 import React from "react";
-export const metadata = {
-  title: "About Page",
+export const metadata: Metadata = {
+  title: {
+    default: "About Page",
+  },
+  description: "For optimisation",
 };
 
 function About() {

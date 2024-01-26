@@ -28,3 +28,4 @@ function Product({ params }: { params: params }) {
 }
 
 export default Product;
+// ---------------------------------
