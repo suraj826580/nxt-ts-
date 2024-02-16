@@ -15,7 +15,7 @@ export const generateMetaData = ({ params }: props): Metadata => {
     title: `productID ${params.productID}`,
   };
 };
-// above code is mpt  working
+// above code is mpt  working i am trying to create a dynamic metadata
 
 function Product({ params }: { params: params }) {
   const { productID } = params;
