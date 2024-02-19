@@ -2,6 +2,7 @@ import Link from "next/link";
 import React from "react";
 
 function ProductList() {
+  const a = 10;
   return (
     <div>
       <h1>Products</h1>
