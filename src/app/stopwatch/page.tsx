@@ -1,7 +1,7 @@
 import React from "react";
 
 function Stopwatch() {
-  return <div>Stopwatch</div>;
+  return <div>Dynamic Stopwatch</div>;
 }
 
 export default Stopwatch;
